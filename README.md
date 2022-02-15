@@ -7,6 +7,7 @@ This script is quite simple and self-explanatory, essentially what it does is wh
 ## Commands
 
 `/clearchat` - Requires `clearchat.staff` permission. 
+
 `/clearc`- Everyone is allowed to utilize this command. (Clears chat just for the user)
 
 ## Logging
