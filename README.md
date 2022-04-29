@@ -1,4 +1,4 @@
-# BreezyChatClear
+# S-ChatClear
 
 ## What is it?
 
@@ -24,5 +24,5 @@ You can configure the prefix to match your server name.
 
 
 ## Download
-https://github.com/DevBreezy/ChatClear
+https://github.com/DevBreezy/S-ChatClear
 
