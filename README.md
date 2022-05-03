@@ -24,5 +24,5 @@ You can configure the prefix to match your server name.
 
 
 ## Download
-https://github.com/DevSmurk/S-ChatClear
+https://github.com/SmurkTheDev/S-ChatClear
 
