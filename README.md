@@ -1,4 +1,4 @@
-# S-ChatClear
+# B-ChatClear
 
 ## What is it?
 
@@ -24,5 +24,5 @@ You can configure the prefix to match your server name.
 
 
 ## Download
-https://github.com/SmurkTheDev/S-ChatClear
+https://github.com/BreezyTheDev/B-ChatClear
 
